@@ -1,0 +1,9 @@
+1) html , css , js     1st test --->   {test for continue forward}
+2) google dialogFlow   {Integretions(facebook , watsapp , telegram , callAssitant[inbound or outbond])} 
+3) Node.js             
+4) Mongo DB            2nd test --->   {test for continue forward}   
+5) ChatGPT
+6) Gemini
+7) open source models  
+8) deploment 
+9) steanlit by phyton
